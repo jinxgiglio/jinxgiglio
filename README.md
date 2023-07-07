@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá,seja bem vindo a minha pagina do GitHub. Estou começando meus trabalhos como desenvolvedora. Aceito sugestoes de melhorias e comentários!!😊
 
 <!--
 **jinxgiglio/jinxgiglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
